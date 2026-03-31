@@ -78,5 +78,5 @@ Open your browser to `http://localhost:8000` to begin.
 
 <div align="center">
   <br>
-  <p><b>Created with ❤️ by <a href="https://github.com/TELUGUSCRIPTER">TeluguScripter</a></b></p>
+  <p><b>Created with ❤️ by <a href="https://github.com/pvenkatesh282675-ops">TeluguScripter</a></b></p>
 </div>
